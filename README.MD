@@ -2,7 +2,7 @@
 <img src="capture/BanqueService.png">
 
 <h3>Client Web Service</h3>
-<img src="capture/1.png">
+<img src="1.png">
 
 <h3>Compte</h3>
 <img src="capture/2.png">
