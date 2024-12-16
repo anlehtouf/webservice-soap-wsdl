@@ -1,29 +1,32 @@
-### Banque Service
-![Banque Service](capture/BanqueService.png)
+<h3>Banque Service</h3>
+<img src="capture/BanqueService.png">
 
-### Client Web Service
-![Client Web Service](capture/ClientWS.png)
+<h3>Client Web Service</h3>
+<img src="capture/1.png">
 
-### Compte
-![Compte](capture/Compte.png)
+<h3>Compte</h3>
+<img src="capture/2.png">
 
-### Conversion Method Test with SOAP
-![Conversion Method Test with SOAP](capture/Conversion%20Method%20test%20with%20soap.png)
+<h3>Conversion Method Test with SOAP</h3>
+<img src="capture/3.png">
 
-### Get Compte Test with SoapUI
-![Get Compte Test with SoapUI](capture/GetCompte%20test%20With%20SoapUI.png)
+<h3>Conversion Method Test with SOAP (Duplicate)</h3>
+<img src="capture/4.png">
 
-### Liste Comptes Test with SoapUI
-![Liste Comptes Test with SoapUI](capture/ListeComptes%20test%20with%20SoapUI.png)
+<h3>Get Compte Test with SoapUI</h3>
+<img src="capture/5.png"/>
 
-### POM
-![POM](capture/Pom.png)
+<h3>Liste Comptes Test with SoapUI</h3>
+<img src="capture/6.png">
 
-### POM (ClientWS)
-![POM (ClientWS)](capture/POM%20(ClientWS).png)
+<h3>POM</h3>
+<img src="capture/7.png">
 
-### Server Web Service
-![Server Web Service](capture/serverWS.png)
+<h3>POM (ClientWS)</h3>
+<img src="capture/8.png">
 
-### WSDL
-![WSDL](capture/WSDL.png)
+<h3>Server Web Service</h3>
+<img src="capture/9.png">
+
+<h3>WSDL</h3>
+<img src="capture/10.png">
