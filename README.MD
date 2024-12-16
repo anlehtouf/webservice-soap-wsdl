@@ -2,7 +2,11 @@
 <img src="capture/BanqueService.png">
 
 <h3>Client Web Service</h3>
+<<<<<<< HEAD
 <img src="Capture/1.png">
+=======
+<img src="1.png">
+>>>>>>> 3f8ff15e6c61c3127e202c2abbabaac58ee357cc
 
 <h3>Compte</h3>
 <img src="Capture/2.png">
