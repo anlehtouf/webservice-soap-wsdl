@@ -5,7 +5,7 @@
 <img src="1.png">
 
 <h3>Compte</h3>
-<img src="capture/2.png">
+<img src="Capture/2.png">
 
 <h3>Conversion Method Test with SOAP</h3>
 <img src="capture/3.png">
